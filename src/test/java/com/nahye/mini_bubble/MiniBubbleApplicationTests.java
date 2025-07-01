@@ -1,4 +1,4 @@
-package com.example.nahye.mini_bubble;
+package com.nahye.mini_bubble;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
